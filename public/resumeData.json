@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Adeolu Oluwasegun",
+    "occupation": "Software Developer",
+    "description": "I code, and love building user facing products with React, NextJs and React Native",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Passionate Mobile and Web Front-end Engineer with about 3 years of experience developing web and mobile apps that are both responsive and Search Engines Optimized(SEO). Progressing knowledge of Javascript/Typescript languages and frameworks such as ReactJs, NextJs for web apps and React Native for cross platform mobile applications. Able to quickly learn and adopt new technologies in a fast paced environment. Extensive knowledge of CSS, SASS, and TailwindCSS for building apps with modern and innovative designs. Looking to work in a team to build apps for actionable decision-making using my technical and analytical skills",
+    "contactmessage": "Get in touch with me if you'd love to be a part of your team",
+    "email": "adeolusegun99@gmail.com",
+    "phone": "+234 7061938349",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Block 100, Edo Tech Park",
+      "city": "Benin, Nigeria",
+      "state": "Edo",
+      "zip": "232111"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://resume.io/r/4UmSAcOcq",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
+        "name": "twitter",
+        "url": "https://twitter.com/AdeoluOluwaseg3",
+        "className": "fa fa-twitter"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/segun.adeolu1/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/oluwasegunadeolu/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/segunadeolu/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/moxie99",
         "className": "fa fa-github"
       }
     ]
@@ -48,27 +48,33 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Federal University of Technology, Akure",
+        "degree": "Bachelor's Degree, Communication Technology",
+        "graduated": "September 2016",
+        "description": "Graduated with Second Upper Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Shipbubble",
+        "title": "Frontend Developer",
+        "years": "Presently working here",
+        "description": "Building user interfaces using ReactJs and NextJs using Test Driven Development."
+      },
+      {
+        "company": "Decagon Institute",
+        "title": "Associate Android Developer",
+        "years": "January 2022 - September 2022",
+        "description": "Building android apps using Kotlin and Native android development dependencies."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
-        "name": "Python",
+        "name": "Kotlin",
         "level": "85%"
       },
       {
@@ -77,45 +83,49 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "90%"
       },
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "Mobile App Development",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Pinterest Clone (React Native)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "img2.png",
+        "url": "https://github.com/moxie99/pinterestclone"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Uber Clone (React Native)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "img1.png",
+        "url": "https://github.com/moxie99/uber-clone"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "A web3 blockcahin app (React Native)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "img3.jpeg",
+        "url": "https://github.com/celo-org/build-with-celo-hackathon/pull/67"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Mr. Oluwasegun is such a sweet and admirable mentor to me. He has a knack for encouraging me, yet at the same time challenging me enough to push me out of my comfort zone. Absolutely enjoyed and still enjoying my time with him, I hope more mentees would be able to come under his guidance and learn from him!",
+        "user": "Uloka Ngozi (mentee)"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Your input to my blog's development is a game-changer for me and my career as a whole. I look forward to having an app developed for me by you soonest, keep it up!",
+        "user": "Adeoye Adenike (client)"
       }
     ]
   }

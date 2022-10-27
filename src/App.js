@@ -21,6 +21,8 @@ const App = () => {
       });
   }, []);
 
+  console.log(resumeData);
+
   return (
     <div className="App">
       <Header data={resumeData.main} />
